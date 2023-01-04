@@ -30,19 +30,15 @@ var myStyle = {
     "opacity": 1,
 };
 
-L.geoJSON("bezirksgrenzen.geojson",{
-    style: myStyle
-}).bindPopup(function (layer){
-    
-})
 
-// function onEachFeature(feature, layer){
-//     layer.bindPopup(feature.properties.Gemeinde_name)
-// };
 
-// var geojsonLayer = new L.GeoJSON.AJAX("bezirksgrenzen.geojson",{
-//     onEachFeature:onEachFeature});
-// geojsonLayer.addTo(map); 
+function onEachFeature(feature, layer){
+    layer.bindPopup(feature.properties.Gemeinde_name)
+};
+
+var geojsonLayer = new L.GeoJSON.AJAX("plz.geojson",{
+    onEachFeature:onEachFeature});
+geojsonLayer.addTo(map); 
 
 
 
