@@ -1,0 +1,202 @@
+Tabelle 1
+Proben-nummer;Strain;Einsender;Datum;DatumArt
+19-00022;18-00803;65549 Limburg, Der Kreisausschuss;1/3/19;EntnahmeDatum
+19-00023;18-00803;65549 Limburg, Der Kreisausschuss;12/31/18;ErkrBeginn
+19-00042;19-00042;70193 Stuttgart, Labor Prof. Enders & Partner;1/2/19;ErkrBeginn
+19-00057;19-00057;01074 Dresden, Landesuntersuchungsamt für das Gesundheits-;1/10/19;ErkrBeginn
+19-00061;19-00061;80335 München, Landeshauptstadt München;1/17/19;ErkrBeginn
+19-00083;17-00163;14050 Berlin, DRK Kliniken Berlin/Westend;1/26/19;EntnahmeDatum
+19-00086;19-00061;20246 Hamburg, Universitätsklinikum Hamburg- Eppendorf;1/22/19;EntnahmeDatum
+19-00087;19-00061;80335 München, Landeshauptstadt München;1/21/19;ErkrBeginn
+19-00090;17-00163;61352 Bad Homburg, Hochtaunuskreis;1/23/19;ErkrBeginn
+19-00091;17-00163;60596 Frankfurt, Institut für Medizinische Virologie;1/23/19;ErkrBeginn
+19-00092;17-00163;51643 Gummersbach, Gesundheitsamt Gummersbach;1/25/19;ErkrBeginn
+19-00094;19-00061;80335 München, Landeshauptstadt München;1/19/19;ErkrBeginn
+19-00097;17-00163;53783 Eitorf, Praxis für hausärztliche Versorgung;1/14/19;ErkrBeginn
+19-00103;17-00163;60313 Frankfurt, Stadt Frankfurt am Main;1/23/19;ErkrBeginn
+19-00108;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;1/13/19;ErkrBeginn
+19-00109;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;1/13/19;ErkrBeginn
+19-00110;17-00163;86899 Landsberg, Klinikum Landsberg;1/29/19;ErkrBeginn
+19-00116;17-00163;51643 Gummersbach, Klinikum Oberberg;1/21/19;ErkrBeginn
+19-00125;19-00061;85435 Erding, Landratsamt Erding;2/7/19;ErkrBeginn
+19-00134;17-00163;76829 Landau, Kreisverwaltung Südliche Weinstraße;2/15/19;EntnahmeDatum
+19-00144;17-00163;80335 München, Landeshauptstadt München;2/13/19;EntnahmeDatum
+19-00147;17-00163;76133 Karlsruhe, Städt. Klinikum Karlsruhe gGmbH;2/8/19;ErkrBeginn
+19-00148;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;2/7/19;EntnahmeDatum
+19-00149;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;1/30/19;ErkrBeginn
+19-00151;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;2/17/19;ErkrBeginn
+19-00160;17-00163;78050 Villingen-Schwenningen, Landratsamt Schwarzwald-Baar-Kreis;2/17/19;ErkrBeginn
+19-00162;17-00163;69115 Heidelberg, Landratsamt Rhein-Neckar-Kreis;2/18/19;ErkrBeginn
+19-00168;17-00163;78333 Stockach, Dr. med. Stefan Wild;2/19/19;ErkrBeginn
+19-00169;19-00169;12627 Berlin, Gesundheitsamt Marzahn-Hellersdorf;2/24/19;ErkrBeginn
+19-00171;17-00163;60313 Frankfurt, Gesundheitsamt Frankfurt am Main;2/21/19;ErkrBeginn
+19-00172;17-00163;76133 Karlsruhe, Städtisches Klinikum Karlsruhe;2/20/19;ErkrBeginn
+19-00173;17-00163;67550 Worms, Klinikum Worms;2/19/19;ErkrBeginn
+19-00193;19-00169;10365 Berlin, Sana Klinikum Lichtenberg;2/25/19;ErkrBeginn
+19-00195;17-00163;78665 Frittlingen, Robert Hammel;2/17/19;ErkrBeginn
+19-00196;17-00163;78050 Villingen-Schwenningen, Landratsamt Schwarzwald-Baar-Kreis;3/27/19;ErkrBeginn
+19-00203;17-00163;76437 Rastatt, Landratsamt Rastatt;2/23/19;ErkrBeginn
+19-00204;17-00163;77652 Offenburg, LANDRATSAMT ORTENAUKREIS;3/4/19;ErkrBeginn
+19-00211;19-00211;30427 Hannover, Niedersächsisches Landesgesundheitsamt;2/16/19;ErkrBeginn
+19-00212;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;2/12/19;ErkrBeginn
+19-00217;17-00163;76437 Rastatt, Landratsamt Rastatt;3/4/19;ErkrBeginn
+19-00219;17-00163;76829 Landau, Kreisverwaltung Südliche Weinstraße;3/3/19;ErkrBeginn
+19-00223;17-00163;72336 Balingen, Zollernalb Klinikum gGmbH;3/4/19;ErkrBeginn
+19-00225;19-00169;10820 Berlin, Bezirksamt Tempelhof-Schöneberg;3/4/19;ErkrBeginn
+19-00226;17-00163;60596 Frankfurt, Institut für Medizinische Virologie;3/4/19;ErkrBeginn
+19-00228;17-00163;31785 Hameln, nordlab;3/2/19;ErkrBeginn
+19-00241;17-00163;76530 Baden-Baden, LADR GmbH;3/7/19;EntnahmeDatum
+19-00243;17-00163;76870 Kandel, Asklepios Suedpfalzkliniken;3/4/19;EntnahmeDatum
+19-00245;17-00163;77652 Offenburg, LANDRATSAMT ORTENAUKREIS;3/4/19;ErkrBeginn
+19-00253;17-00163;51643 Gummersbach, Gesundheitsamt Gummersbach;3/10/19;ErkrBeginn
+19-00254;17-00163;76133 Karlsruhe, MVZ Labor PD Dr. Volkmann;3/9/19;EntnahmeDatum
+19-00255;17-00163;67433 Neustadt, Kreisverwaltung Bad Dürkheim;3/9/19;EntnahmeDatum
+19-00257;19-00257;80335 München, Referat für Gesundheit und Umwelt GS-IS;3/7/19;ErkrBeginn
+19-00264;17-00163;78315 Radolfzell, Landratsamt Konstanz;3/8/19;ErkrBeginn
+19-00272;19-00169;13347 Berlin, Labor MVZ mib AG;3/8/19;ErkrBeginn
+19-00281;17-00163;58762 Altena, Märkischer Kreis;3/6/19;ErkrBeginn
+19-00282;17-00163;80804 München, München Klinik;3/7/19;ErkrBeginn
+19-00286;17-00163;32221 Bünde, Lukas-Krankenhaus;3/7/19;ErkrBeginn
+19-00288;17-00163;51643 Gummersbach, Gesundheitsamt Gummersbach;3/10/19;ErkrBeginn
+19-00295;19-00211;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/1/19;ErkrBeginn
+19-00297;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/3/19;ErkrBeginn
+19-00298;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/3/19;ErkrBeginn
+19-00302;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/2/19;ErkrBeginn
+19-00303;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/5/19;ErkrBeginn
+19-00304;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/4/19;ErkrBeginn
+19-00305;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/6/19;EntnahmeDatum
+19-00307;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/9/19;ErkrBeginn
+19-00308;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/12/19;ErkrBeginn
+19-00309;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/14/19;EntnahmeDatum
+19-00310;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/9/19;ErkrBeginn
+19-00316;17-00163;31785 Hameln, nordlab;3/18/19;EntnahmeDatum
+19-00337;17-00163;77652 Offenburg, Gesundheitsamt Offenburg;3/18/19;ErkrBeginn
+19-00348;17-00163;76857 Albersweiler, Allgemeinmedizin Albersweiler;3/15/19;ErkrBeginn
+19-00349;19-00169;10216  Berlin, Bezirksamt Friedrichshain-Kreuzberg von Berlin;3/22/19;EntnahmeDatum
+19-00352;17-00163;67433 Neustadt/Wstr., Kreisverwaltung Bad Dürkheim;3/14/19;ErkrBeginn
+19-00353;17-00163;76829 Landau, Dr. med. Bernhard Mertens;3/10/19;ErkrBeginn
+19-00361;17-00163;67433 Neustadt/Wstr., Kreisverwaltung Bad Dürkheim;3/20/19;ErkrBeginn
+19-00365;17-00163;38118 Braunschweig, Städtisches Klinikum Braunschweig gGmbH;3/20/19;EntnahmeDatum
+19-00366;17-00163;10713 Berlin, Bezirksamt Charlottenburg-Wilmersdorf;3/26/19;EntnahmeDatum
+19-00367;17-00163;76829 Landau, Kreisverwaltung Südliche Weinstraße;3/20/19;ErkrBeginn
+19-00369;17-00163;78315 Radolfzell, Landratsamt Konstanz;3/18/19;ErkrBeginn
+19-00373;17-00163;76887 Bad Bergzabern, Klinikum Landau- Südliche Weinstraße;3/19/19;ErkrBeginn
+19-00374;17-00163;76829 Landau, Kreisverwaltung Südliche Weinstraße;3/27/19;EntnahmeDatum
+19-00380;17-00163;77652 Offenburg, Gesundheitsamt Ortenaukreis;3/21/19;ErkrBeginn
+19-00382;17-00163;79104 Freiburg, Landratsamt Breisgau-Hochschwarzwald;3/26/19;ErkrBeginn
+19-00383;17-00163;79104 Freiburg, Landratsamt Breisgau-Hochschwarzwald;3/25/19;ErkrBeginn
+19-00390;17-00163;76879 Essingen, Dr. Michael Feldbaum;3/20/19;ErkrBeginn
+19-00393;17-00163;76829 Landau, Kreisverwaltung Südliche Weinstraße;3/27/19;ErkrBeginn
+19-00401;17-00163;76829 Landau, Kreisverwaltung Südliche Weinstraße;3/20/19;ErkrBeginn
+19-00402;19-00402;99401 Weimar, Stadtverwaltung Weimar;3/20/19;ErkrBeginn
+19-00408;19-00061;23795 Bad Segeberg, Gesundheitsamt des Kreises Segeberg;3/28/19;EntnahmeDatum
+19-00411;17-00163;70193 Stuttgart, Labor Prof. Enders & Partner;3/27/19;EntnahmeDatum
+19-00460;17-00163;76726 Germersheim, Asklepios Südpfalzklinik Germersheim;3/31/19;ErkrBeginn
+19-00461;17-00163;76829 Landau, Kreisverwaltung Südliche Weinstraße;3/27/19;ErkrBeginn
+19-00471;19-00471;67346 Speyer, Diakonissen- Stiftungs Krankenhaus Speyer;4/2/19;ErkrBeginn
+19-00477;19-00061;20249 Hamburg, Bezirksamt Hamburg-Nord;4/8/19;EntnahmeDatum
+19-00492;17-00163;76829 Landau, Kreisverwaltung Südliche Weinstraße;4/7/19;ErkrBeginn
+19-00497;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/15/19;ErkrBeginn
+19-00498;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/15/19;ErkrBeginn
+19-00499;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/18/19;ErkrBeginn
+19-00500;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/18/19;ErkrBeginn
+19-00503;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/20/19;ErkrBeginn
+19-00504;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;3/27/19;ErkrBeginn
+19-00506;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;4/1/19;ErkrBeginn
+19-00509;19-00509;89077 Ulm, Landratsamt Alb-Donau-Kreis;4/12/19;EntnahmeDatum
+19-00513;17-00163;67434 Neustadt, Krankenhaus Hetzelstift;4/11/19;ErkrBeginn
+19-00517;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;4/8/19;ErkrBeginn
+19-00532;19-00061;20249 Hamburg, Bezirksamt Hamburg-Nord;4/16/19;ErkrBeginn
+19-00565;19-00061;22339 Hamburg, Labor Lademannbogen MVZ GmbH;4/25/19;EntnahmeDatum
+19-00566;17-00163;93053 Regensburg, Institut für Medizinische Mikrobiologie und Hygiene;4/4/19;ErkrBeginn
+19-00573;17-00163;79539 Lörrach, Landratsamt Lörrach;4/23/19;ErkrBeginn
+19-00580;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitamt;4/18/19;EntnahmeDatum
+19-00586;19-00509;89077 Ulm, Landratsamt Alb-Donau-Kreis;4/19/19;ErkrBeginn
+19-00604;17-00163;78052 Villingen-Schwenningen, Schwarzwald- Baar Klinikum;4/15/19;ErkrBeginn
+19-00609;17-00163;77652 Offenburg, Gesundheitsamt Offenburg;5/2/19;ErkrBeginn
+19-00613;19-00613;74072 Heilbronn, Landratsamt Heilbronn;5/10/19;EntnahmeDatum
+19-00630;17-00163;86156 Augsburg, SYNLAB MVZ Augs. GmbH;5/13/19;EntnahmeDatum
+19-00643;17-00163;50935 Köln, Uniklinik Köln;5/12/19;ErkrBeginn
+19-00647;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;4/11/19;EntnahmeDatum
+19-00648;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;4/15/19;EntnahmeDatum
+19-00649;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;4/15/19;EntnahmeDatum
+19-00650;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;4/17/19;EntnahmeDatum
+19-00651;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;4/18/19;EntnahmeDatum
+19-00654;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;4/30/19;EntnahmeDatum
+19-00656;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;4/29/19;EntnahmeDatum
+19-00657;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;5/2/19;EntnahmeDatum
+19-00658;19-00471;30427 Hannover, Niedersächsisches Landesgesundheitsamt;5/9/19;EntnahmeDatum
+19-00677;19-00402;46397 Bocholt, Kreis Borken;5/11/19;ErkrBeginn
+19-00679;17-00163;42651 Solingen, Klingenstadt Solingen;5/21/19;EntnahmeDatum
+19-00688;19-00471;80335 München, Landeshauptstadt München;5/21/19;ErkrBeginn
+19-00705;17-00163;50858 Köln, Labor Dr. Wisplinghoff;5/30/19;EntnahmeDatum
+19-00706;17-00163;50858 Köln, Labor Dr. Wisplinghoff;5/29/19;EntnahmeDatum
+19-00721;19-00471;95233 Helmbrechts, MVZ S&V Filiale Helmbrechts;5/19/19;ErkrBeginn
+19-00726;17-00163;07740 Jena, Universitätsklinikum Jena;6/2/19;EntnahmeDatum
+19-00766;17-00163;07703 Jena, Stadtverwaltung Jena;6/6/19;ErkrBeginn
+19-00793;17-00163;01099 Dresden, Landesuntersuchungsamt für das Gesundheits-;3/17/19;ErkrBeginn
+19-00796;17-00163;80335 München, Landeshauptstadt München;6/8/19;ErkrBeginn
+19-00810;17-00163;80335 München, Referat für Gesundheit und Umwelt GS-IS;6/23/19;ErkrBeginn
+19-00813;17-00163;01099 Dresden, Landesuntersuchungsamt für das Gesundheits-;6/21/19;EntnahmeDatum
+19-00817;17-00163;70176 Stuttgart, Landeshauptstadt Stuttgart;6/18/19;ErkrBeginn
+19-00829;17-00163;12105 Berlin, Bezirksamt Tempelhof-Schöneberg;6/22/19;ErkrBeginn
+19-00839;17-00163;87616 Marktoberdorf, Landratsamt Ostallgäu;6/29/19;ErkrBeginn
+19-00860;17-00163;78224 Singen, Institut für Laboratoriumsmedizin und Humangenetik;7/16/19;EntnahmeDatum
+19-00861;17-00163;78050 Villingen-Schwenningen, Landratsamt Schwarzwald-Baar-Kreis;7/2/19;ErkrBeginn
+19-00888;17-00163;78628 Rottweil, Landratsamt Rottweil;7/25/19;EntnahmeDatum
+19-00936;17-00163;78050 Villingen-Schwenningen, Landratsamt Schwarzwald-Baar-Kreis;7/13/19;ErkrBeginn
+19-00965;17-00163;79312 Emmendingen, Landratsamt Emmendingen;8/4/19;ErkrBeginn
+19-00966;17-00163;79312 Emmendingen, Landratsamt Emmendingen;8/4/19;ErkrBeginn
+19-00969;17-00163;90403 Nürnberg, Gesundheitsamt Nürnberg;8/2/19;ErkrBeginn
+19-00971;19-00971;50858 Köln, Labor Dr. Wisplinghoff;8/7/19;EntnahmeDatum
+19-00980;17-00163;44145 Dortmund, Klinikum Dortmund gGmbH;8/8/19;ErkrBeginn
+19-01011;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;8/26/19;EntnahmeDatum
+19-01014;17-00163;90403 Nürnberg, Gesundheitsamt Nürnberg;8/31/19;ErkrBeginn
+19-01015;17-00163;85049 Ingolstadt, Klinikum Ingolstadt;9/6/19;EntnahmeDatum
+19-01024;19-00509;13353 Berlin, Labor Berlin;8/30/19;EntnahmeDatum
+19-01034;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;8/28/19;ErkrBeginn
+19-01035;17-00163;60596 Frankfurt, NRZ Retroviren;8/31/19;ErkrBeginn
+19-01056;17-00163;87527 Sonthofen, Landratsamt Oberallgäu;9/12/19;ErkrBeginn
+19-01092;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;9/17/19;EntnahmeDatum
+19-01093;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;9/23/19;ErkrBeginn
+19-01094;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;9/23/19;EntnahmeDatum
+19-01095;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;9/25/19;EntnahmeDatum
+19-01096;17-00163;30427 Hannover, Niedersächsisches Landesgesundheitsamt;9/24/19;EntnahmeDatum
+19-01181;17-00163;47805 Krefeld, Helios Klinikum Krefeld;10/25/19;ErkrBeginn
+19-01183;19-01183;40225 Düsseldorf, Universitätsklinikum Düsseldorf;10/17/19;ErkrBeginn
+19-01229;17-00163;41066 Mönchengladbach, Krankenhaus Neuwerk;11/2/19;ErkrBeginn
+19-01292;19-01292;30427 Hannover, Niedersächsisches Landesgesundheitsamt;11/22/19;EntnahmeDatum
+19-01293;19-01292;30427 Hannover, Niedersächsisches Landesgesundheitsamt;11/25/19;EntnahmeDatum
+19-01295;19-01292;30427 Hannover, Niedersächsisches Landesgesundheitsamt;11/26/19;ErkrBeginn
+19-01296;19-01292;30427 Hannover, Niedersächsisches Landesgesundheitsamt;12/2/19;EntnahmeDatum
+20-00029;17-00163;66663 Merzig, Gesundheitsamt des Landkreises Merzig-Wadern;1/3/20;ErkrBeginn
+20-00050;17-00163;18055 Rostock, Universitätsmedizin Rostock;1/12/20;ErkrBeginn
+20-00077;17-00163;63065 Offenbach, Stadtgesundheitsamt;12/26/19;ErkrBeginn
+20-00085;17-00163;77652 Offenburg, Gesundheitsamt Ortenaukreis;1/12/20;ErkrBeginn
+20-00086;17-00163;76530 Baden-Baden, LADR GmbH;1/17/20;ErkrBeginn
+20-00087;17-00163;76133 Karlsruhe, Städtisches Klinikum Karlsruhe;1/17/20;ErkrBeginn
+20-00088;17-00163;77694 Kehl, Ortenau Klinikum;1/14/20;ErkrBeginn
+20-00097;17-00163;77652 Offenburg, Landratsamt Ortenaukreis;1/15/20;ErkrBeginn
+20-00098;17-00163;77652 Offenburg, Landratsamt Ortenaukreis;1/24/20;EntnahmeDatum
+20-00119;17-00163;77652 Offenburg, Gesundheitsamt Ortenaukreis;1/31/20;ErkrBeginn
+20-00120;17-00163;77652 Offenburg, Gesundheitsamt Ortenaukreis;1/30/20;ErkrBeginn
+20-00128;17-00163;77704 Oberkirch, Dr. med. Bernd Schindler;1/27/20;ErkrBeginn
+20-00129;17-00163;76437 Rastatt, Landratsamt Rastatt;1/25/20;ErkrBeginn
+20-00130;17-00163;77652 Offenburg, Dr. med. Michael Glatt;2/3/20;ErkrBeginn
+20-00148;17-00163;58453 Witten, Dr. med. Katharina Liederwald;2/5/20;ErkrBeginn
+20-00149;17-00163;44137 Dortmund, Stadt Dortmund- Gesundheitsamt;2/7/20;ErkrBeginn
+20-00150;17-00163;44137 Dortmund, Stadt Dortmund- Gesundheitsamt;2/6/20;ErkrBeginn
+20-00167;17-00163;65929 Frankfurt, Klinikum Frankfurt Höchst;2/8/20;ErkrBeginn
+20-00187;19-00509;63065 Offenbach, Stadtgesundheitsamt;2/14/20;ErkrBeginn
+20-00193;17-00163;44137 Dortmund, Stadt Dortmund- Gesundheitsamt;2/17/20;ErkrBeginn
+20-00194;17-00163;44137 Dortmund, Stadt Dortmund- Gesundheitsamt;2/25/20;ErkrBeginn
+20-00200;17-00163;35037 Marburg, Landkreis Marburg-Biedenkopf;2/20/20;ErkrBeginn
+20-00206;17-00163;44137 Dortmund, Stadt Dortmund- Gesundheitsamt;2/24/20;ErkrBeginn
+20-00207;17-00163;59494 Soest, Marien Krankenhaus Soest;2/18/20;ErkrBeginn
+20-00209;17-00163;44137 Dortmund, Stadt Dortmund- Gesundheitsamt;2/24/20;ErkrBeginn
+20-00221;17-00163;13353 Berlin, Labor Berlin;3/6/20;EntnahmeDatum
+20-00223;17-00163;13353 Berlin, Labor Berlin;2/27/20;EntnahmeDatum
+20-00224;17-00163;44137 Dortmund, Stadt Dortmund- Gesundheitsamt;3/2/20;ErkrBeginn
+20-00225;17-00163;65929 Frankfurt, Klinikum Frankfurt Höchst;2/21/20;ErkrBeginn
+20-00284;17-00163;60313 Frankfurt, Gesundheitsamt Frankfurt am Main;3/7/20;ErkrBeginn
+20-00290;17-00163;58644 Iserlohn, Eurofins Laborbetriebsgesellschaft;3/12/20;EntnahmeDatum
