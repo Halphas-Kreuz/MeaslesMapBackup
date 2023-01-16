@@ -6,5 +6,8 @@ for s in L:
     x = l[2]
     code = x.split()[0]
     pos = " ".join(x.split()[1:])
-    l[-1] = l[-1].replace("ErkrBeginn",0)
+    l[-1] = l[-1].replace("ErkrBeginn","0")
+    l[-1] = l[-1].replace("EntnahmeDatum","1")
+    # l[0] = "{" + l[0] + "}"
+    # l[1] = "{" + l[1] + "}"
     print(f"{l[0]};{l[1]};{code};{code[0]}{code[1]};{pos.split(',')[0]};{pos.split(',')[1][1:]};{l[3]};{l[4]}", end="")
