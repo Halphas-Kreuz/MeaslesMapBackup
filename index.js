@@ -33,10 +33,10 @@ var myStyle = {
 
 
 function onEachFeature(feature, layer){
-    layer.bindPopup(feature.properties.Gemeinde_name)
+    layer.bindPopup(feature.properties.note)
 };
 
-var geojsonLayer = new L.GeoJSON.AJAX("plz.geojson",{
+var geojsonLayer = new L.GeoJSON.AJAX("geojson/5stelle.geojson",{
     onEachFeature:onEachFeature});
 geojsonLayer.addTo(map); 
 
