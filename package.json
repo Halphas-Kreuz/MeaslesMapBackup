@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@turf/center-of-mass": "^6.5.0",
+    "@turf/centroid": "^6.5.0"
+  }
+}
